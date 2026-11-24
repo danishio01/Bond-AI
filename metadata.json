@@ -1,0 +1,6 @@
+{
+  "name": "BondAI",
+  "description": "Real Connections. Intelligent Matches. Private by Design. A privacy-first AI dating platform with explainable compatibility, Blind Connect, and Signal Protocol end-to-end encrypted messaging.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
